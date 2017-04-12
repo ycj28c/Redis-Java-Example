@@ -1,3 +1,3 @@
 # RedisJavaExample
 
-A Simple Redis Java Example
+Simple Redis Java Example, one regular, one with spring
